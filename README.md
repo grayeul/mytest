@@ -1,4 +1,4 @@
 mytest
 ======
 
-A test repo
+3 Oct 2014 - A test repo 
